@@ -1,7 +1,7 @@
 # Welcome to ResourceChest!
 
 ## About Us
-Driven by the vision of creating a vast array of repositories that are immensely useful for the online community, and is committed to expanding our repository offerings, continually adding new and valuable compilations that cater to a wide range of needs and interests.
+Driven by the vision of creating a vast array of repositories that are immensely useful for the online community, we are committed to expanding our repository offerings, continually adding new and valuable compilations that cater to a wide range of needs and interests.
 
 ### Highlights
 - **Custom GPTs**: A comprehensive list of GPTS.
