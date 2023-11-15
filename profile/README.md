@@ -8,7 +8,7 @@ Driven by the vision of creating a vast array of repositories that are immensely
 - **Chrome Privacy Extensions**: A curated collection of Chrome extensions to enhance user privacy and browsing experience.
 
 ## Contributing
-We welcome contributions from the community! If you're interested in contributing, please read our [Contribution Guidelines](URL-to-CONTRIBUTING.md-in-this-repository).
+We welcome contributions from the community! If you're interested in contributing, please read our [Contribution Guidelines](https://github.com/ResourceChest/.github/blob/main/CONTRIBUTING.md).
 
 ## Contact Us
 For any inquiries or suggestions, feel free to reach us at robbie.github@gmail.com
