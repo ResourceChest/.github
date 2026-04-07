@@ -15,29 +15,47 @@ We build and maintain **high-quality, open-source lists** of tools, extensions, 
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/ResourceChest/custom-gpts">custom-gpts</a></h3>
-      <p>A comprehensive, categorized collection of Custom GPTs worth trying.</p>
-      <a href="https://github.com/ResourceChest/custom-gpts/stargazers"><img src="https://img.shields.io/github/stars/ResourceChest/custom-gpts?style=flat-square&color=yellow" alt="Stars"></a>
-      <a href="https://github.com/ResourceChest/custom-gpts/commits"><img src="https://img.shields.io/github/last-commit/ResourceChest/custom-gpts?style=flat-square" alt="Last Commit"></a>
+      <h3><a href="https://github.com/ResourceChest/ai-agents">ai-agents</a></h3>
+      <p>Practical AI agents, frameworks, and tools for developers.</p>
+      <a href="https://github.com/ResourceChest/ai-agents/stargazers"><img src="https://img.shields.io/github/stars/ResourceChest/ai-agents?style=flat-square&color=yellow" alt="Stars"></a>
+      <a href="https://github.com/ResourceChest/ai-agents/commits"><img src="https://img.shields.io/github/last-commit/ResourceChest/ai-agents?style=flat-square" alt="Last Commit"></a>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/ResourceChest/chrome-privacy-extensions">chrome-privacy-extensions</a></h3>
-      <p>Curated Chrome extensions to protect your privacy and improve your browsing experience.</p>
+      <p>Curated Chrome extensions for privacy and security.</p>
       <a href="https://github.com/ResourceChest/chrome-privacy-extensions/stargazers"><img src="https://img.shields.io/github/stars/ResourceChest/chrome-privacy-extensions?style=flat-square&color=yellow" alt="Stars"></a>
       <a href="https://github.com/ResourceChest/chrome-privacy-extensions/commits"><img src="https://img.shields.io/github/last-commit/ResourceChest/chrome-privacy-extensions?style=flat-square" alt="Last Commit"></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/ResourceChest/custom-gpts">custom-gpts</a></h3>
+      <p>Community-curated catalog of useful Custom GPTs with ratings.</p>
+      <a href="https://github.com/ResourceChest/custom-gpts/stargazers"><img src="https://img.shields.io/github/stars/ResourceChest/custom-gpts?style=flat-square&color=yellow" alt="Stars"></a>
+      <a href="https://github.com/ResourceChest/custom-gpts/commits"><img src="https://img.shields.io/github/last-commit/ResourceChest/custom-gpts?style=flat-square" alt="Last Commit"></a>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/ResourceChest/dev-tools-no-signup">dev-tools-no-signup</a></h3>
+      <p>Free developer tools that work instantly without an account.</p>
+      <a href="https://github.com/ResourceChest/dev-tools-no-signup/stargazers"><img src="https://img.shields.io/github/stars/ResourceChest/dev-tools-no-signup?style=flat-square&color=yellow" alt="Stars"></a>
+      <a href="https://github.com/ResourceChest/dev-tools-no-signup/commits"><img src="https://img.shields.io/github/last-commit/ResourceChest/dev-tools-no-signup?style=flat-square" alt="Last Commit"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/ResourceChest/finops-tools">finops-tools</a></h3>
+      <p>Vendor-neutral tools for cloud cost optimization.</p>
+      <a href="https://github.com/ResourceChest/finops-tools/stargazers"><img src="https://img.shields.io/github/stars/ResourceChest/finops-tools?style=flat-square&color=yellow" alt="Stars"></a>
+      <a href="https://github.com/ResourceChest/finops-tools/commits"><img src="https://img.shields.io/github/last-commit/ResourceChest/finops-tools?style=flat-square" alt="Last Commit"></a>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/ResourceChest/local-first-tools">local-first-tools</a></h3>
+      <p>Local-first, offline-capable, privacy-respecting tools.</p>
+      <a href="https://github.com/ResourceChest/local-first-tools/stargazers"><img src="https://img.shields.io/github/stars/ResourceChest/local-first-tools?style=flat-square&color=yellow" alt="Stars"></a>
+      <a href="https://github.com/ResourceChest/local-first-tools/commits"><img src="https://img.shields.io/github/last-commit/ResourceChest/local-first-tools?style=flat-square" alt="Last Commit"></a>
+    </td>
+  </tr>
 </table>
-
-## Roadmap
-
-We're always working on new collections. Here's what's on the horizon:
-
-- **AI Tools** — Essential AI-powered tools for productivity and development
-- **Privacy Tools** — Cross-platform privacy resources beyond the browser
-- **Free Dev Resources** — Free tools, APIs, hosting, and assets for developers
-
-Have an idea for a new collection? [Open an issue](https://github.com/ResourceChest/.github/issues) and let us know.
 
 ## Contributing
 
