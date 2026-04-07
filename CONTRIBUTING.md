@@ -1,29 +1,44 @@
-# Contribution Guidelines for ResourceChest
+# Contributing to ResourceChest
 
-## Welcome Contributors!
-Thank you for your interest in contributing to ResourceChest! We value your contributions and want to make sure that your experience as a contributor is positive. To ensure a harmonious and productive environment, please follow these guidelines.
+First off — thank you for considering a contribution! ResourceChest is community-driven, and every addition, fix, or suggestion makes these collections better for everyone.
+
+## Code of Conduct
+
+We follow the standard [GitHub Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines). Be respectful, be constructive, and assume good intent.
 
 ## How to Contribute
-1. **Fork the Repository**: Start by forking the repository you wish to contribute to.
-2. **Create a Branch**: Make your changes in a new branch. Please name the branch appropriately to reflect the nature of your changes.
-3. **Make Your Changes**: Add your contributions, whether it's adding new resources, fixing bugs, enhancing documentation, or any other improvements.
-4. **Commit Your Changes**: Write clear and concise commit messages. This helps to understand the purpose of your changes and track the project's history.
-5. **Test Your Changes**: Before submitting, please test your changes thoroughly to ensure they're working as intended.
-6. **Pull Request**: Submit a pull request with a detailed description of your changes. Please reference any related issues your PR is addressing.
 
-## Guidelines for Contributions
-- **Quality over Quantity**: We strive for quality contributions. Make sure your addition is well-researched, reliable, and adds value.
-- **Stay Relevant**: Ensure your contributions are relevant to the specific repository's focus.
-- **Respect Copyrights and Licenses**: Only submit content that is either your own or free to distribute. Respect the licenses of any used resources.
-- **Be Respectful**: Interact with other contributors respectfully. We aim to maintain a welcoming and inclusive community.
+1. **Fork** the repository you want to contribute to.
+2. **Create a branch** with a descriptive name (e.g., `add-ublock-origin` or `fix-broken-link`).
+3. **Make your changes** — add resources, fix errors, improve descriptions, or update outdated entries.
+4. **Commit** with a clear, concise message explaining what you changed and why.
+5. **Open a Pull Request** with a short description of your changes. Reference any related issues if applicable.
+
+## What Makes a Good Contribution
+
+- **Quality over quantity.** One well-researched, genuinely useful resource beats ten low-effort additions.
+- **Stay on topic.** Make sure your contribution fits the scope of the specific repository.
+- **Respect licenses and copyrights.** Only submit content you have the right to share.
+- **Keep formatting consistent.** Match the style and structure already used in the list.
+
+## Suggesting New Resources
+
+Not sure if a resource belongs? Open an issue first to discuss it. We're happy to help figure out the right fit.
 
 ## Reporting Issues
-- Use the GitHub issue tracker to report bugs or suggest enhancements.
-- Clearly describe the issue or suggestion, providing all necessary details and screenshots if applicable.
 
-## Additional Notes
-- **Review Process**: Each contribution will be reviewed by the maintainers and may require some back-and-forth to meet the organization's standards.
-- **Updates**: Contributions might become outdated. We appreciate updates to existing content to keep it relevant.
+Use the GitHub issue tracker on the relevant repository to:
 
-## Questions or Need Help?
-If you have any questions or need help with your contribution, please reach out via robbie.github@gmail.com
+- Flag broken or outdated links
+- Report inaccurate descriptions
+- Suggest improvements to organization or structure
+
+Please include enough detail for us to understand and reproduce the issue.
+
+## Review Process
+
+Every PR is reviewed by a maintainer. We may ask for changes or clarifications — this is normal and part of keeping quality high. We aim to review contributions promptly.
+
+## Questions?
+
+If you need help or have questions about contributing, reach out at **robbie.github@gmail.com** or open an issue. We're happy to help.
