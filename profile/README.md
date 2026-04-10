@@ -55,6 +55,16 @@ We build and maintain **high-quality, open-source lists** of tools, extensions, 
       <a href="https://github.com/ResourceChest/local-first-tools/commits"><img src="https://img.shields.io/github/last-commit/ResourceChest/local-first-tools?style=flat-square" alt="Last Commit"></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/ResourceChest/ai-llm-papers">ai-llm-papers</a></h3>
+      <p>Foundational and frontier AI/LLM research papers reading list.</p>
+      <a href="https://github.com/ResourceChest/ai-llm-papers/stargazers"><img src="https://img.shields.io/github/stars/ResourceChest/ai-llm-papers?style=flat-square&color=yellow" alt="Stars"></a>
+      <a href="https://github.com/ResourceChest/ai-llm-papers/commits"><img src="https://img.shields.io/github/last-commit/ResourceChest/ai-llm-papers?style=flat-square" alt="Last Commit"></a>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
 </table>
 
 ## Contributing
